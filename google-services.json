@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "670776641390",
+    "project_id": "appmama-49191",
+    "storage_bucket": "appmama-49191.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670776641390:android:e9a94e9318f9131aa8a37f",
+        "android_client_info": {
+          "package_name": "com.ifsudeste.mama"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "670776641390-25u98soad102eggnlqje5n49u3l979n9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOPVIbl-i-UOPEPkURE6E7XeBLuwKnyCQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "670776641390-25u98soad102eggnlqje5n49u3l979n9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
